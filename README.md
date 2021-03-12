@@ -26,7 +26,9 @@ Si vous souhaitez modifier ou optimisé le script merci de me contacté pour que
 #############LICENSE###############
 ###################################
 
-This job is created by Hamza (Hdest) © Tout droit réservé
+Ce travail à été créé par Hamza (Hdest) © Tout droit réservé
+
+Ancien script (Je le met gratuit car l'ancienne personne avec qui je travaillé s'amuse a le vendre et s'approprie le travail)
 
 Le repost sans me crédité / leaks / n'est pas autorisé 
 
